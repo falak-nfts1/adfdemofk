@@ -1,0 +1,9 @@
+{
+	"name": "fk1-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98a0a0d2-7797-4552-b9a7-58789b30fd29",
+		"tenantId": "fc559a5a-9fba-4ce7-b4ba-59e5611a629a"
+	}
+}
